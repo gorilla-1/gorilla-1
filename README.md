@@ -3,7 +3,7 @@
   musical instruments, gaming, backend development, microcontrollers
 
 - 🌱 I’m currently Electronics and Communication Engineering undergraduate
-- 📫 How to reach: merkor.q@gmail.com
+- 📫 How to reach: mertkrkmaz1@gmail.com
 
 <!---
 gorilla-1/gorilla-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
