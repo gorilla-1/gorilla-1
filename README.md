@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gorilla-1
 - 👀 I’m interested in :
-  musical instruments, gaming, backend development, microcontrollers
+  musical, gaming, soldering, linux, embedded
 
-- 🌱 I’m currently Electronics and Communication Engineering undergraduate
+- 🌱 I’m currently Electronics and Communication Engineer
 - 📫 How to reach: merkor.q@gmail.com
 
 <!---
