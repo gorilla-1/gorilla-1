@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gorilla-1
 - 👀 I’m interested in :
-  musical, gaming, soldering, linux, embedded
+  music, gaming, soldering, linux, embedded
 
 - 🌱 I’m currently Electronics and Communication Engineer
 - 📫 How to reach: merkor.q@gmail.com
